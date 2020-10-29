@@ -47,10 +47,10 @@
 
 ##	ССЫЛКИ
 
-[GitHub Partiality](https://github.com/PartialityModding/PartialityLauncher)
-[BepInEx](https://drive.google.com/file/d/1WcCCsS3ABBdO1aX-iJGeqeE07YE4Qv88/view?usp=sharing)
-[Каталог модов Rain World](raindb.net)
-[Сервер сообщества](discord.gg/rainworld)
+* [GitHub Partiality](https://github.com/PartialityModding/PartialityLauncher)
+* [BepInEx](https://drive.google.com/file/d/1WcCCsS3ABBdO1aX-iJGeqeE07YE4Qv88/view?usp=sharing)
+* [Каталог модов Rain World](raindb.net)
+* [Сервер сообщества](discord.gg/rainworld)
 
 
 ## ПРИМЕЧАНИЯ
